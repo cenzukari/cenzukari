@@ -11,6 +11,6 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 **Databases:**  
 SQL, PostgreSQL   
 
-- 📫 If you have an collaboration idea. [Contact me](mailto:irene.kuznecova@gmail.com)
-- 💬 Get in touch with me at [Telegram](https://t.me/cenzukari)
-- ⚡ I’m currently open for job propositions, if you want to hire me check my [CV](https://hh.ru/?hhtmFrom=resume)
+- 📫 If you have a collaboration idea, please [Contact me](mailto:irene.kuznecova@gmail.com)
+- 💬 Get in touch with me via [Telegram](https://t.me/cenzukari)
+- ⚡ If you want to hire me check my [CV](https://hh.ru/?hhtmFrom=resume)
