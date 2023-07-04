@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**cenzukari/cenzukari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Irina Kuznetsova
 
-Here are some ideas to get you started:
+I am a Data Scientist. I can analyze large amounts of data, build and train ML models and visualize results.  
+I am dedicated to learn new techonoligies, tools and methodologies in DS and apply this knowledge into my work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Science tools:**
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+**Databases:**
+SQL, PostgreSQL 
+
+- 📫 If you have an collaboration idea. [Contact me](mailto:irene.kuznecova@gmail.com)
+- 💬 Get in touch with me at [Telegram](https://t.me/cenzukari)
+- ⚡ I’m currently open for job propositions, if you want to hire me check my [CV](https://hh.ru/?hhtmFrom=resume)
