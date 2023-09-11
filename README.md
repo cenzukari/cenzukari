@@ -13,4 +13,4 @@ SQL, PostgreSQL
 
 - 📫 If you have a collaboration idea [Contact me](mailto:irene.kuznecova@gmail.com)
 - 💬 Get in touch with me via [Telegram](https://t.me/cenzukari) or [Email](mailto:irene.kuznecova@gmail.com)
-- ⚡ If you want to hire me check my [CV](https://hh.ru/?hhtmFrom=resume)
+- ⚡ If you want to hire me check my [CV](https://hh.ru/resume/8d597d7cff031c219a0039ed1f307934376533)
