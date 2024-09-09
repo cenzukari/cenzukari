@@ -7,6 +7,6 @@
 **Стэк:**  
 Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Statmodels, SQL, PostgreSQL, Redash, ClickHouse, TABiX   
 
-- 📫 Если у вас есть идея для коллаборации [Написать на почту](mailto:irene.kuznecova@gmail.com)
-- 💬 Связаться со мной в [Telegram](https://t.me/cenzukari) or [Email](mailto:irene.kuznecova@gmail.com)
+- 📫 Если у вас есть идея для коллаборации, вы можете [написать мне](mailto:irene.kuznecova@gmail.com)
+- 💬 Связаться со мной в [Telegram](https://t.me/cenzukari) или [Email](mailto:irene.kuznecova@gmail.com)
 - ⚡ Если у вас есть предложение о работе, посмотрите мое [CV](https://hh.ru/resume/336b0c8fff0c61e0910039ed1f55464a56746b)
